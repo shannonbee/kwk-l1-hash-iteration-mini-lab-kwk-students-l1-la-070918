@@ -4,6 +4,7 @@ def create_olympics_hash
   puts create_olympics_hash
   # Implement this method so that it returns a hash with the data provided on README.md
 end
+puts create_olympics_hash
 
 
 def add_a_key_value_pair
